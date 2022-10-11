@@ -1,4 +1,4 @@
-import Characterfeatures from "../types";
+import Characterfeatures from "./types";
 
 class Character implements Characterfeatures {
   isAlive = true;
